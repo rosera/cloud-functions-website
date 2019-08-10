@@ -1,0 +1,46 @@
+{
+  "movies": [
+  {
+    "title": "Iron Man",
+    "director": "Jon Favreau",
+    "release": "2008",
+    "description": "Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name, produced by Marvel Studios and distributed by Paramount Pictures. The first installment of the Marvel Cinematic Universe, it was directed by Jon Favreau from a screenplay by Mark Fergus and Hawk Ostby, and Art Marcum and Matt Holloway. The film follows Tony Stark (Robert Downey Jr.), an industrialist and master engineer who builds a mechanized suit of armor and becomes the superhero Iron Man.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "director": "Louis Leterrier",
+    "release": "2008",
+    "description": "The Incredible Hulk is a 2008 American superhero film based on the Marvel Comics character the Hulk, produced by Marvel Studios and distributed by Universal Pictures. It is the second film in the Marvel Cinematic Universe (MCU). The film was directed by Louis Leterrier, with a screenplay by Zak Penn. It stars Edward Norton as Bruce Banner, alongside Liv Tyler, Tim Roth, Tim Blake Nelson, Ty Burrell, and William Hurt. In The Incredible Hulk, Bruce Banner becomes the Hulk as an unwitting pawn in a military scheme to reinvigorate the Super-Soldier program through gamma radiation. On the run, he attempts to cure himself of the Hulk before he is captured by General Thaddeus Ross, but his worst fears are realized when power-hungry soldier Emil Blonsky becomes a similar, but more bestial creature.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/8/88/The_Incredible_Hulk_poster.jpg"
+  },
+  {
+    "title": "Iron Man 2",
+    "director": "Jon Favreau",
+    "release": "2010",
+    "description": "Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Paramount Pictures.[N 1] It is the sequel to 2008's Iron Man, and the third film in the Marvel Cinematic Universe (MCU). Directed by Jon Favreau and written by Justin Theroux, the film stars Robert Downey Jr. as Tony Stark / Iron Man, alongside Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, and Samuel L. Jackson. Six months after the events of Iron Man, Tony Stark is resisting calls by the United States government to hand over the Iron Man technology while also combating his declining health from the arc reactor in his chest. Meanwhile, rogue Russian scientist Ivan Vanko has developed the same technology and built weapons of his own in order to pursue a vendetta against the Stark family, in the process joining forces with Stark's business rival, Justin Hammer.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg"
+  },
+  {
+    "title": "Thor",
+    "director": "Kenneth Branagh",
+    "release": "2011",
+    "description": "Thor is a 2011 American superhero film based on the Marvel Comics character of the same name, produced by Marvel Studios and distributed by Paramount Pictures.[N 1] It is the fourth film in the Marvel Cinematic Universe (MCU). The film was directed by Kenneth Branagh, written by the writing team of Ashley Edward Miller and Zack Stentz along with Don Payne, and stars Chris Hemsworth as the title character, alongside Natalie Portman, Tom Hiddleston, Stellan Skarsgård, Colm Feore, Ray Stevenson, Idris Elba, Kat Dennings, Rene Russo, and Anthony Hopkins. The film sees Thor banished to Earth from Asgard, stripped of his powers and his hammer Mjölnir, after reigniting a dormant war. As his brother Loki plots to take the Asgardian throne, Thor must prove himself worthy.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg"
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "director": "Joe Johnston",
+    "release": "2011",
+    "description": "Captain America: The First Avenger is a 2011 American superhero film based on the Marvel Comics character Captain America. Produced by Marvel Studios and distributed by Paramount Pictures,[N 1] it is the fifth film in the Marvel Cinematic Universe (MCU). The film was directed by Joe Johnston, written by Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America, alongside Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper, Neal McDonough, Derek Luke, and Stanley Tucci. Set predominantly during World War II, the film tells the story of Steve Rogers, a sickly man from Brooklyn who is transformed into the super-soldier Captain America and must stop the Red Skull, who intends to use an artifact called the Tesseract as an energy-source for world domination.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg"
+  },
+  {
+    "title": "The Avengers",
+    "director": "Joss Whedon",
+    "release": "2012",
+    "description": "Marvel's The Avengers[6] (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland),[3][7] or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.[N 1] It is the sixth film in the Marvel Cinematic Universe (MCU). The film was written and directed by Joss Whedon and features an ensemble cast that includes Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the titular Avengers team, alongside Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury, director of the spy agency S.H.I.E.L.D., recruits Tony Stark, Steve Rogers, Bruce Banner, and Thor to form a team that must stop Thor's brother Loki from subjugating Earth.",
+    "bgImage": "https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg"
+  }
+  ]
+}

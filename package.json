@@ -1,0 +1,16 @@
+{
+  "name": "node-form",
+  "version": "1.0.0",
+  "description": "This is a sample application based on Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=marvelFilmAPI",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Rose",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.2.1",
+    "pug": "^2.0.4"
+  }
+}
