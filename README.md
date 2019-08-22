@@ -50,4 +50,6 @@ The following Node packages are required:
 * [pug](https://pugjs.org/api/getting-started.html)
 
 If you have any updates - feel free to raise a pull request. 
- 
+
+# Cloud Run Button
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/rosera/cloud-functions-website.git) 
