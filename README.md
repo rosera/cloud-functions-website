@@ -9,6 +9,16 @@ How to generate a simple static website that can be deployed both locally and re
 
 ![Cloud Functions output](images/cf-example.png?raw=true)
 
+The following table provides the references to use in order to see the additional data items added to the json database.
+
+| Film                                   | URL                           |
+|----------------------------------------|-------------------------------|
+| Iron Man                               | http://localhost:8080         |
+| The Incredible Hulk                    | http://localhost:8080/?film=1 |
+| Iron Man 2                             | http://localhost:8080/?film=2 |
+| Thor                                   | http://localhost:8080/?film=3 |
+| Captain America: The First Avenger     | http://localhost:8080/?film=4 |
+| The Avengers                           | http://localhost:8080/?film=5 |
 
 ## Architecture
 
